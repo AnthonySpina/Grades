@@ -1,4 +1,4 @@
-Teacher,Class,Type,Name,Possible Points,Points,Possible Points,Grade (percent)
+Teacher,Class,Type,Name,Possible Points,Points,Possible Points, Grade
 "Farrell, David",AP Computer Science,Quiz,Q1 Assessment Quiz,38/38,38,38,1.00
 "Farrell, David",AP Computer Science,Lab,BUILDING Class Hierarchy,40/40,40,40,1.00
 "Farrell, David",AP Computer Science,Homework,USEBASE CLASS,30/30,30,30,1.00
